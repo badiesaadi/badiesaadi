@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Engineering student (ING3 Informatique) at **Université de Mostaganem (UMAB)**, Algeria
+- 🎓 Engineering student (ING4 Informatique) at **Université de Mostaganem (UMAB)**, Algeria
 - 💻 Frontend-leaning full-stack developer — I like taking a project from an empty folder to a shipped product
 - 🚀 Currently building **Devora**, a role-based (Admin / Manager / Teacher) crèche management platform in React + Vite + TypeScript
 - 🧠 Also into data science & ML: Kaggle competitions, reinforcement learning, and AutoML tooling
